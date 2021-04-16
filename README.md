@@ -27,7 +27,7 @@ I intend in the future to improve this project, by:
 *refining the design or add my own twist
 
 ## Status
-Project is completed as required. [published website:] ()
+Project is completed as required. [published website:] (https://mcheroajdn.github.io/Broadway/)
 
 ## Author/Contact
 * M. Christopher - Initial work
